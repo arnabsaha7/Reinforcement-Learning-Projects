@@ -25,7 +25,7 @@ This project implements a Reinforcement Learning (RL) agent to play the classic 
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/arnabsaha7/supermariobros-rl.git
+    git clone https://github.com/arnabsaha7/Reinforcement-Learning-Projects/super-mario-rl.git
     cd supermariobros-rl
     ```
 
