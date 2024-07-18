@@ -1,0 +1,7 @@
+gym
+gym-super-mario-bros
+nes-py
+numpy
+torch
+torchdict
+torchrl
